@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"f999a1ec2fff3ae3","type":"text","text":"# Software Android","x":17,"y":-124,"width":250,"height":60},
+		{"id":"1d00b886bfbe8d99","type":"text","text":"# Hardware\nНесколько типов приборов особенности конструкции и управления у каждого\n","x":-420,"y":-440,"width":320,"height":180},
+		{"id":"d5e761141a45e75d","type":"text","text":"# Getting started\n\nКак включить, выключить звук/мигание, предосторожности, FAQ","x":-40,"y":-440,"width":320,"height":180},
+		{"id":"4692e8e2d231e2d7","type":"text","text":"# Mobile App\nСкачать приложения, инструкции к приложениям","x":-420,"y":-230,"width":320,"height":170},
+		{"id":"e3082de03ae926d4","type":"text","text":"# Mapping\nТреккинг, как записать, как использовать","x":-40,"y":-230,"width":320,"height":170},
+		{"id":"9360ac2b343b27c9","type":"text","text":"# Spectroscopy\nИнформация по спектроскопии и индентификации радионуклидов + статьи ","x":-420,"y":-20,"width":320,"height":180},
+		{"id":"ea837a2049f1531c","type":"text","text":"# Community\nЧаты, соцсети, блогеры","x":-40,"y":-20,"width":320,"height":180},
+		{"id":"ac89f05308092853","type":"text","text":"# Datasheets PDF\nИнструкции в форме документов, для оффлайн использования","x":340,"y":-20,"width":320,"height":180},
+		{"id":"527d6f8db328776d","type":"text","text":"# Tutorials\nСписок видео по темам","x":340,"y":-440,"width":320,"height":180},
+		{"id":"505be5da5d0d6978","type":"text","text":"# Software PC\nРабота с ПК, подключение и инструкция","x":340,"y":-230,"width":320,"height":170}
+	],
+	"edges":[]
+}
