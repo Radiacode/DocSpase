@@ -3,7 +3,10 @@
 The instrument has high sensitivity to gamma and X-ray radiation.\
 It is suitable for assessing dose rate, accumulated dose, absorbed radiation energy spectrum and radiation hazard warning.
 
-> \[!todo] You can choose measurements in Sieverts (Sv) and Sieverts per hour (Sv/h); Roentgen and Roentgen per hour (R/h); CPS - Count Per Second; CPM - Count Per Minute
+> You can choose measurements in Sieverts (Sv) and Sieverts per hour (Sv/h);\
+> &#x20;Roentgen and Roentgen per hour (R/h); \
+> CPS - Count Per Second; \
+> CPM - Count Per Minute
 
 | ![](<../../.gitbook/assets/settings\_modality\_Zv\_per\_h\_f (1).png>) | <p>- Briefly press the up/down rocker buttons to move the focus to <strong>[Measurement units]</strong>;<br>- Short press the round button to move to <strong>[Measurement units]</strong>.</p> |
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
