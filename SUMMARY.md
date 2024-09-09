@@ -47,8 +47,7 @@
 
 * [Structure](structure-1/README.md)
   * [2 Quick start](structure-1/2-quick-start.md)
-  * [8 Activity](structure-1/8-activity/README.md)
-    * [14 App widgets](structure-1/8-activity/14-app-widgets.md)
+  * [8 Activity](structure-1/8-activity.md)
   * [13 Device Settings](structure-1/13-device-settings.md)
   * [1 Introduction](structure-1/1-introduction.md)
   * [6 Spectrum](structure-1/6-spectrum.md)
@@ -62,3 +61,4 @@
   * [10 Map and tracks](structure-1/10-map-and-tracks.md)
   * [11 Devices](structure-1/11-devices.md)
   * [12 Application settings](structure-1/12-application-settings.md)
+  * [14 App widgets](structure-1/14-app-widgets.md)
