@@ -12,20 +12,17 @@ The **Alarm Status** is indicated by:
 * alarm icons on the status panel of the device display;
 * unacknowledged alarms status line.
 
-|                                     |                                   |
-| ----------------------------------- | --------------------------------- |
-| ![](../.gitbook/assets/bt\_sym.png) | Level 1 alarm on Count Rate.      |
-| ![](../.gitbook/assets/bt\_sym.png) | Level 2 alarm on Count Rate.      |
-| ![](../.gitbook/assets/bt\_sym.png) | Count Rate over-range alarm.      |
-| /                                   | \[\[2 Count rate - alarm levels]] |
-| !\[\[md\_alarm\_1.png]]             | Level 1 Dose Rate alarm.          |
-| !\[\[md\_alarm\_2.png]]             | Level 2 Dose Rate alarm.          |
-| !\[\[md\_alarm\_3.png]]             | Dose Rate over-range alarm.       |
-| \[\[Display Modes#Monitor]]         | \[\[3 Dose rate - alarm levels]]  |
-| !\[\[dose\_alarm\_1.png]]           | Level 1 alarm on Dose.            |
-| !\[\[dose\_alarm\_2.png]]           | Level 2 alarm on Dose.            |
-| !\[\[dose\_alarm\_3.png]]           | Alarm 3 on Dose over scale        |
-| \[\[Display Modes#Dose]]            | \[\[4 Dose - alarm levels]]       |
+|                                                  |                              |
+| ------------------------------------------------ | ---------------------------- |
+| ![](../.gitbook/assets/cr\_alarm\_1.png)         | Level 1 alarm on Count Rate. |
+| ![](../.gitbook/assets/cr\_alarm\_2.png)         | Level 2 alarm on Count Rate. |
+| ![](../.gitbook/assets/cr\_alarm\_3.png)         | Count Rate over-range alarm. |
+| ![](../.gitbook/assets/md\_alarm\_1.png)         | Level 1 Dose Rate alarm.     |
+| ![](../.gitbook/assets/md\_alarm\_2.png)         | Level 2 Dose Rate alarm.     |
+| ![](../.gitbook/assets/md\_alarm\_3.png)         | Dose Rate over-range alarm.  |
+| ![](<../.gitbook/assets/dose\_alarm\_1 (1).png>) | Level 1 alarm on Dose.       |
+| ![](../.gitbook/assets/dose\_alarm\_2.png)       | Level 2 alarm on Dose.       |
+| ![](../.gitbook/assets/dose\_alarm\_3.png)       | Alarm 3 on Dose over scale   |
 
 **Setting alarm thresholds**
 

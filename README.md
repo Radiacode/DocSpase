@@ -1,12 +1,10 @@
 ---
 icon: rectangles-mixed
+cover: .gitbook/assets/RC 101 Android (2).psd
+coverY: 0
 ---
 
 # Structure
-
-### / <a href="#software_android" id="software_android"></a>
-
-### &#x20;<a href="#software_android" id="software_android"></a>
 
 ### Software Android <a href="#software_android" id="software_android"></a>
 
