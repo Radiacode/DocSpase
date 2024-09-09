@@ -42,3 +42,23 @@
 * [FAQ](faq.md)
 
 ## Windows&#x20;
+
+***
+
+* [Structure](structure-1/README.md)
+  * [2 Quick start](structure-1/2-quick-start.md)
+  * [8 Activity](structure-1/8-activity/README.md)
+    * [14 App widgets](structure-1/8-activity/14-app-widgets.md)
+  * [13 Device Settings](structure-1/13-device-settings.md)
+  * [1 Introduction](structure-1/1-introduction.md)
+  * [6 Spectrum](structure-1/6-spectrum.md)
+  * [15 Folders in the libraries](structure-1/15-folders-in-the-libraries.md)
+  * [9 Log](structure-1/9-log.md)
+  * [5 Search](structure-1/5-search.md)
+  * [16 Feedback](structure-1/16-feedback.md)
+  * [4 Main Screen 10](structure-1/4-main-screen-10.md)
+  * [7 Spectrogram](structure-1/7-spectrogram.md)
+  * [3 If the application cannot find the device...](structure-1/3-if-the-application-cannot-find-the-device....md)
+  * [10 Map and tracks](structure-1/10-map-and-tracks.md)
+  * [11 Devices](structure-1/11-devices.md)
+  * [12 Application settings](structure-1/12-application-settings.md)
