@@ -13,7 +13,7 @@ The Radiacode-10X series dosimeter has a single mode of operation - continuous d
 
 At any moment one of several ways of displaying the radiation situation assessment is available:
 
-!\[\[dose\_rate\_sym.png]] \[\[#Monitor]] – estimation of dose rate and count rate; !\[\[dose\_sym.png]] \[\[#Dose]] – dose assessment; !\[\[lookup\_sym.png]] \[\[#Search]]– operational search; !\[\[spectrum\_sym.png]] \[\[#Spectrum]] –  energy spectrum of photon radiation.
+!\[\[]] \[\[[#Monitor](display-modes.md#monitor) – estimation of dose rate and count rate; !\[\[dose\_sym.png]] \[\[#Dose]] – dose assessment; !\[\[lookup\_sym.png]] \[\[#Search]]– operational search; !\[\[spectrum\_sym.png]] \[\[#Spectrum]] –  energy spectrum of photon radiation.
 
 During operation, the instrument also detects the exceeding of all Alarms levels. Informs the user of radiation hazards or changes in the environment.
 

@@ -10,9 +10,8 @@ Portable radiation detector Radiacode-10X series is equipped with a combined int
 * LEDs;
 * vibration signaling device. Sound, light, vibration complement the information presented on the display and provide feedback when pressing the buttons.
 
-|                                                                                      |                                                                            |           |               |                      |
-| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | --------- | ------------- | -------------------- |
 | **Event/state**                                                                      | **Display**                                                                | **Sound** | **Vibration** | **Led/Backlight**    |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | --------- | ------------- | -------------------- |
 | Switching on                                                                         | –                                                                          | +         | +             | –                    |
 | Switching off                                                                        | –                                                                          | +         | –             | –                    |
 | Establishing a connection                                                            | !\[\[bt\_sym.png]], !\[\[usb\_sym.png]]                                    | +         | –             | –                    |

@@ -28,21 +28,21 @@ The **Alarm Status** is indicated by:
 
 Two  alarm thresholds for the dose rate level can be set using the menu. When the dose rate alarm threshold level is exceeded, a pulsating sign will be displayed in the status bar:
 
-* "Alarm 1" – !\[\[md\_alarm\_1.png]];
-* "Alarm 2" – !\[\[md\_alarm\_2.png]];
-* "Alarm 3 (off the scale)" – !\[\[md\_alarm\_3.png]] .
+* "Alarm 1" – ![](<../.gitbook/assets/md\_alarm\_1 (2).png>);
+* "Alarm 2" – ![](../.gitbook/assets/md\_alarm\_2.png);
+* "Alarm 3 (off the scale)" – ![](../.gitbook/assets/md\_alarm\_3.png) .
 
 Two alarm thresholds for the count rate alarm level can be set using the menu. When the count rate alarm threshold level is exceeded, a pulsating sign will be displayed in the status bar:
 
-* "Alarm 1" – !\[\[cr\_alarm\_1.png]];
-* "Alarm 2" – !\[\[cr\_alarm\_2.png]];
-* "Alarm 3 (off the scale)" – !\[\[cr\_alarm\_3.png]] .
+* "Alarm 1" – ![](<../.gitbook/assets/cr\_alarm\_1 (3).png>);
+* "Alarm 2" – ![](../.gitbook/assets/cr\_alarm\_2.png) ;
+* "Alarm 3 (off the scale)" – ![](../.gitbook/assets/cr\_alarm\_3.png) .
 
 Two alarm thresholds for the accumulated dose level can be set using the menu. When the alarm threshold level is exceeded, a pulsating sign will be displayed in the status bar:
 
-* "Alarm 1" – !\[\[dose\_alarm\_1.png]];
-* "Alarm 2" – !\[\[dose\_alarm\_2.png]];
-* "Alarm 3 (off the scale)" – !\[\[dose\_alarm\_3.png]]
+* "Alarm 1" – ![](<../.gitbook/assets/dose\_alarm\_1 (2).png>);
+* "Alarm 2" – ![](../.gitbook/assets/dose\_alarm\_2.png);
+* "Alarm 3 (off the scale)" – ![](../.gitbook/assets/dose\_alarm\_3.png).
 
 There are three alarm thresholds for each of these sources in the Radiacode-10X series instrument: If the current count rate, dose rate, or dose value crosses any of the thresholds from bottom to top, an **Alarm event** occurs:
 
