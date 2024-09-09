@@ -62,3 +62,4 @@
   * [11 Devices](structure-1/11-devices.md)
   * [12 Application settings](structure-1/12-application-settings.md)
   * [14 App widgets](structure-1/14-app-widgets.md)
+* [assets/images/sym40\_40](assets-images-sym40\_40.md)
