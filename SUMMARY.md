@@ -36,8 +36,6 @@
 
 ***
 
-* [Device info](device-info.md)
-* [Display](display.md)
 * [Working with a PC](working-with-a-pc.md)
 * [FAQ](faq.md)
 
