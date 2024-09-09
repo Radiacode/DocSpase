@@ -12,9 +12,8 @@ The **Alarm Status** is indicated by:
 * alarm icons on the status panel of the device display;
 * unacknowledged alarms status line.
 
-|                                                  |                              |
-| ------------------------------------------------ | ---------------------------- |
 | ![](../.gitbook/assets/cr\_alarm\_1.png)         | Level 1 alarm on Count Rate. |
+| ------------------------------------------------ | ---------------------------- |
 | ![](../.gitbook/assets/cr\_alarm\_2.png)         | Level 2 alarm on Count Rate. |
 | ![](../.gitbook/assets/cr\_alarm\_3.png)         | Count Rate over-range alarm. |
 | ![](../.gitbook/assets/md\_alarm\_1.png)         | Level 1 Dose Rate alarm.     |
