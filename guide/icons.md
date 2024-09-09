@@ -1,10 +1,14 @@
+---
+icon: icons
+---
+
 # Icons
 
 In the menu (enter by long pressing the round button), the sections are indicated by icons and text. There are seven menu items available on the main menu level.
 
 |                                                                                  |   |                |                                                                     |
 | -------------------------------------------------------------------------------- | - | -------------- | ------------------------------------------------------------------- |
-| !\[\[setting\_sym.png]]                                                          |   | _Settings_     | Instrument Settings menu.                                           |
+| !\[setting\_sym.png]\(setting\_sym.png)                                          |   | _Settings_     | Instrument Settings menu.                                           |
 | !\[\[spectrum\_sym.png]]                                                         |   | _Spectrum_     | Display of the energy spectrum of radiation.                        |
 | !\[\[dose\_rate\_sym.png]]                                                       |   | _Monitor_      | Display the current dose rate or count rate.                        |
 | !\[\[dose\_sym.png]]                                                             |   | _Dose_         | Display of accumulated dose of photon radiation (gamma and X-ray).  |
