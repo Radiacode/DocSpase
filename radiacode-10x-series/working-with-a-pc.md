@@ -19,4 +19,4 @@ Connection to an Android smartphone is also possible via USB OTG. When connected
 
 > \[!info] Use the OTG Adapter (USB\_Type-C)
 
-!\[\[about4.jpg]]
+![](../.gitbook/assets/about4.jpg)

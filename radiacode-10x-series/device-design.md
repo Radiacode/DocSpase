@@ -2,7 +2,7 @@
 
 Design elements, controls and indications controls and indications personal radiation detector Radiacode-10X series
 
-!\[\[about6.png]]
+<figure><img src="../.gitbook/assets/about6.png" alt=""><figcaption></figcaption></figure>
 
 1. Location of the radiation sensor, digital thermometer, and instrument orientation sensor.
 2. Ambient \[\[6 Signals - sound, vibration, light|light]] sensor (for backlight auto turning-on feature)
