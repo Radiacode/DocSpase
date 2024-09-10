@@ -1,3 +1,7 @@
+---
+icon: sigma
+---
+
 # 4 Dose   alarm levels
 
 ![](../../.gitbook/assets/dose\_sym.png) ![](<../../.gitbook/assets/dose\_alarm\_1 (2).png>)

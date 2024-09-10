@@ -1,3 +1,7 @@
+---
+icon: globe
+---
+
 # 8 Language selection
 
 The device can support multiple languages for menus and messages.

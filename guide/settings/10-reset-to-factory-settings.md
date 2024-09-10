@@ -1,3 +1,7 @@
+---
+icon: screwdriver-wrench
+---
+
 # 10 Reset to factory settings
 
 The menu provides an item for resetting the instrument to its original factory settings.

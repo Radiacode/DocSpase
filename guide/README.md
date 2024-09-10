@@ -1,5 +1,5 @@
 ---
-icon: circle-chevron-right
+icon: swatchbook
 ---
 
 # Guide

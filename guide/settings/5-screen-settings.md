@@ -1,3 +1,7 @@
+---
+icon: brightness
+---
+
 # 5 Screen settings
 
 You can customize the screen properties to suit your needs.

@@ -1,3 +1,7 @@
+---
+icon: sliders
+---
+
 # 1 Measurement units
 
 The instrument has high sensitivity to gamma and X-ray radiation.\

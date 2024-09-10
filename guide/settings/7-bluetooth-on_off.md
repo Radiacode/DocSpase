@@ -1,3 +1,7 @@
+---
+icon: bluetooth-b
+---
+
 # 7 Bluetooth on\_off
 
 <figure><img src="../../.gitbook/assets/bt_sym.png" alt=""><figcaption></figcaption></figure>

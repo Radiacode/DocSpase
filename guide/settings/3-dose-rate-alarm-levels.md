@@ -1,3 +1,7 @@
+---
+icon: circle-radiation
+---
+
 # 3 Dose rate   alarm levels
 
 ![](<../../.gitbook/assets/dose\_rate\_sym (1).png>) ![](<../../.gitbook/assets/md\_alarm\_1 (1).png>)&#x20;

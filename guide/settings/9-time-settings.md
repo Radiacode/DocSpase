@@ -1,3 +1,7 @@
+---
+icon: clock
+---
+
 # 9 Time settings
 
 When connecting Radiacode-10X series The time on the device will be set automatically when you connect it to your smartphone or computer.

@@ -1,3 +1,7 @@
+---
+icon: volume-low
+---
+
 # 6 Signals   sound, vibration, light
 
 !\[\[sound\_on\_sym.png]] !\[\[sound\_off\_sym.png]]

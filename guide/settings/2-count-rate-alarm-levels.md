@@ -1,3 +1,7 @@
+---
+icon: magnifying-glass
+---
+
 # 2 Count rate   alarm levels
 
 ![](../../.gitbook/assets/dose\_rate\_sym.png)  ![](../../.gitbook/assets/lookup\_sym.png)![](<../../.gitbook/assets/cr\_alarm\_1 (2).png>)
