@@ -36,21 +36,22 @@
 ## Android
 
 * [Chapter Android](android/chapter-android/README.md)
-  * [10 Map and tracks](android/chapter-android/10-map-and-tracks.md)
-  * [18 Folders in the libraries](android/chapter-android/18-folders-in-the-libraries.md)
   * [1 Introduction](android/chapter-android/1-introduction.md)
-  * [12 Devices](android/chapter-android/12-devices.md)
-  * [9 Log](android/chapter-android/9-log.md)
+  * [2 Quick start](android/chapter-android/2-quick-start.md)
+  * [3 Сan not find the device](android/chapter-android/3-san-not-find-the-device.md)
+  * [4 Main Screen](android/chapter-android/4-main-screen.md)
   * [5 Search](android/chapter-android/5-search.md)
-  * [Main Screen](android/chapter-android/main-screen.md)
-  * [13 Application settings](android/chapter-android/13-application-settings.md)
-  * [Quick start](android/chapter-android/quick-start.md)
-  * [8 Activity](android/chapter-android/8-activity.md)
-  * [15 App widgets](android/chapter-android/15-app-widgets.md)
-  * [19 Feedback](android/chapter-android/19-feedback.md)
   * [6 Spectrum](android/chapter-android/6-spectrum.md)
-  * [14 Device Settings](android/chapter-android/14-device-settings.md)
   * [7 Spectrogram](android/chapter-android/7-spectrogram.md)
+  * [8 Activity](android/chapter-android/8-activity.md)
+  * [9 Log](android/chapter-android/9-log.md)
+  * [10 Map and tracks](android/chapter-android/10-map-and-tracks.md)
+  * [12 Devices](android/chapter-android/12-devices.md)
+  * [13 Application settings](android/chapter-android/13-application-settings.md)
+  * [14 Device Settings](android/chapter-android/14-device-settings.md)
+  * [15 App widgets](android/chapter-android/15-app-widgets.md)
+  * [18 Folders in the libraries](android/chapter-android/18-folders-in-the-libraries.md)
+  * [19 Feedback](android/chapter-android/19-feedback.md)
 
 ## Windows&#x20;
 
