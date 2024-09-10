@@ -6,7 +6,7 @@ icon: circle-radiation
 
 ![](<../../.gitbook/assets/dose\_rate\_sym (1).png>) ![](<../../.gitbook/assets/md\_alarm\_1 (1).png>)&#x20;
 
-> \[!note] About this display mode see [#monitor](../display-modes.md#monitor "mention")
+> \[!note] About this display mode see [#monitor](../display/#monitor "mention")
 
 | ![](<../../.gitbook/assets/settings\_modality\_Zv\_per\_h\_f (3).png>)                               | <p>- Briefly press the up/down rocker buttons to move the focus to <strong>[Dose rate]</strong>;<br>- Short press the round button to moveto <strong>[Dose rate]</strong>.</p>                                                                                       | ![](../../.gitbook/assets/settings\_dose\_rate\_selected\_f.png)                                    |
 | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |

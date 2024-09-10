@@ -1,21 +1,16 @@
----
-icon: tv-retro
----
-
 # Display Modes
 
-The Radiacode-10X series dosimeter has a single mode of operation - continuous data collection, accumulation and analysis.
+Before using Radiacode device for the first time, charge it for two hours.
 
-|                                                     |                                                                                                                                                                                                                                                                                                                                                                        |                                                        |
-| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| ![](../.gitbook/assets/RC101\_is\_off\_f.png)       | <p>- Press and hold the round button until the instrument turns on (at least 3 seconds);<br><br>- When turned on, the instrument will be in the Monitor and display the dose rate;<br>- With the appropriate settings, the sound power on will be played at this time.<br>- At appropriate settings at this moment the backlight of the display will be turned on.</p> | ![](../.gitbook/assets/estimation\_sound\_on\_f.png)   |
-| ![](../.gitbook/assets/estimation\_unlocked\_f.png) | <p>Press and hold the round button to move to the menu;<br><br>- The name of the current menu item will be displayed at the top. (In this case it is "Monitor" <a href="display-modes.md#monitor">Display Modes</a>);<br>- The icons of the main menu items will be placed vertically;<br>- The active item will be highlighted with a negative icon</p>               | ![](../.gitbook/assets/menu\_monitor\_selected\_f.png) |
+To turn on the device, press the round button and hold it for 3 seconds. After display turning-on and sound signalling the device comes into working state.
 
-At any moment one of several ways of displaying the radiation situation assessment is available:
+The dosimeter continuously estimates an ambient dose equivalent rate (AEDR), event count rate, energy spectrum of absorbed photon radiation, and also accumulates an estimation of the ambient dose equivalent (AED). Using a menu of the device, you can view any of these parameters on the display.
 
-![](<../.gitbook/assets/dose\_rate\_sym (2).png>) \[\[[#Monitor](display-modes.md#monitor) – estimation of dose rate and count rate; ![](../.gitbook/assets/dose\_sym.png)\[\[#[Dose](display-modes.md#dose)]] – dose assessment; ![](../.gitbook/assets/lookup\_sym.png) \[\[#[Search](display-modes.md#search)]]– operational search; ![](../.gitbook/assets/spectrum\_sym.png) \[\[#[Spectrum](display-modes.md#spectrum)]] –  energy spectrum of photon radiation.
+<div align="left">
 
-During operation, the instrument also detects the exceeding of all Alarms levels. Informs the user of radiation hazards or changes in the environment.
+<figure><img src="../../.gitbook/assets/operational-description.png" alt="" width="107"><figcaption></figcaption></figure>
+
+</div>
 
 #### Monitor
 

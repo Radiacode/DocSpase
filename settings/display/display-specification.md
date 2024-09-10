@@ -1,6 +1,6 @@
-# Display
+# Display specification
 
-**The instrument is equipped with a graphical monochrome display.** ![](../.gitbook/assets/estimation\_sound\_on\_f.png)
+**The instrument is equipped with a graphical monochrome display.** ![](../../.gitbook/assets/estimation\_sound\_on\_f.png)
 
 * Monochrome graphic LCD;
 * 128x48 dots;

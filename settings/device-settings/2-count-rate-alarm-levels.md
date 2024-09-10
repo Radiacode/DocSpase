@@ -6,7 +6,7 @@ icon: magnifying-glass
 
 ![](../../.gitbook/assets/dose\_rate\_sym.png)  ![](../../.gitbook/assets/lookup\_sym.png)![](<../../.gitbook/assets/cr\_alarm\_1 (2).png>)
 
-> About this display mode see [#search](../display-modes.md#search "mention")
+> About this display mode see [#search](../display/#search "mention")
 
 | ![](<../../.gitbook/assets/settings\_modality\_Zv\_per\_h\_f (2).png>)                                | <p>- Briefly press the up/down rocker buttons to move the focus to <strong>[Count rate]</strong>;<br>- Short press the round button to moveto <strong>[Count rate]</strong>.<strong>]</strong>;</p>                                                                  | ![](../../.gitbook/assets/settings\_count\_rate\_selected\_f.png)                                    |
 | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |

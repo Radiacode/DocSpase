@@ -6,7 +6,7 @@ icon: sigma
 
 ![](../../.gitbook/assets/dose\_sym.png) ![](<../../.gitbook/assets/dose\_alarm\_1 (2).png>)
 
-> \[!note] About this display mode see [#dose](../display-modes.md#dose "mention")
+> \[!note] About this display mode see [#dose](../display/#dose "mention")
 
 <table data-header-hidden><thead><tr><th width="249"></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../../.gitbook/assets/settings_modality_Zv_per_h_f (5).png" alt=""></td><td>- Briefly press the up/down rocker buttons to move the focus to <strong>[Dose]</strong>;<br>- Short press the round button to moveto <strong>[Dose]</strong>.</td><td><img src="../../.gitbook/assets/settings_dose_rate_return_selected_f.png" alt=""></td></tr><tr><td><img src="../../.gitbook/assets/settings_dose_threshold_1_selected_f.png" alt=""></td><td>- Short press the round button to move to**[Alarm 1]**;<br>- Short press the round button to select the desired digit of the threshold value;<br>- Short presses on the up/down swing buttons to change the value of the selected digit;<br>- Set all digits.</td><td><img src="../../.gitbook/assets/settings_dose_threshold_1_set_dialog_confirm_selected_f.png" alt=""></td></tr><tr><td><img src="../../.gitbook/assets/settings_dose_threshold_2_set_dialog_confirm_selected_f (1).png" alt=""></td><td>- Short presses on the round button to select <strong>[Enter]</strong> or <strong>[Esc]</strong>;<br>- Long press the round button to confirm your selection.</td><td><img src="../../.gitbook/assets/settings_dose_threshold_1_set_dialog_cancel_selected_f.png" alt=""></td></tr></tbody></table>
 
