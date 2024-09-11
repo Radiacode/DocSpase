@@ -82,4 +82,4 @@
   * [14 App widgets](chapter-windows/14-app-widgets.md)
   * [15 Folders in the libraries](chapter-windows/15-folders-in-the-libraries.md)
   * [16 Feedback](chapter-windows/16-feedback.md)
-* [Page 1](page-1.md)
+* [Structure device manual](structure-device-manual.md)
