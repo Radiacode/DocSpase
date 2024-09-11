@@ -4,8 +4,9 @@ icon: list-tree
 
 # Structure device manual
 
-[getting-started](getting-started/ "mention") Appointment of the device
+[getting-started](getting-started/ "mention")
 
+* [appointment-of-the-device.md](getting-started/appointment-of-the-device.md "mention")
 * [before-use.md](getting-started/before-use.md "mention")
 * [buttons.md](getting-started/buttons.md "mention")
 * [turning-on-and-off.md](getting-started/turning-on-and-off.md "mention")
