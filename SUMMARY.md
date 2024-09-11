@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Structure](README.md)
+* [Structure device manual](structure-device-manual.md)
 * [Getting started](getting-started/README.md)
+  * [Appointment of the device](getting-started/appointment-of-the-device.md)
   * [Before use](getting-started/before-use.md)
   * [Buttons](getting-started/buttons.md)
   * [Turning on and off](getting-started/turning-on-and-off.md)
@@ -14,7 +16,6 @@
   * [Working with a smartphone](radiacode-10x-series/working-with-a-smartphone.md)
   * [Working with a PC](radiacode-10x-series/working-with-a-pc.md)
 * [Settings](settings/README.md)
-  * [Icons](settings/icons.md)
   * [Indication sound, vibration, light](settings/indication-sound-vibration-light.md)
   * [Device Settings](settings/device-settings/README.md)
     * [1 Measurement units](settings/device-settings/1-measurement-units.md)
@@ -34,6 +35,7 @@
     * [Dose](settings/display/dose.md)
     * [Search](settings/display/search.md)
   * [Alarms](settings/alarms.md)
+  * [Icons](settings/icons.md)
 * [Info](info/README.md)
   * [Device info](info/device-info.md)
   * [Display specification](info/display-specification.md)
@@ -82,4 +84,3 @@
   * [14 App widgets](chapter-windows/14-app-widgets.md)
   * [15 Folders in the libraries](chapter-windows/15-folders-in-the-libraries.md)
   * [16 Feedback](chapter-windows/16-feedback.md)
-* [Structure device manual](structure-device-manual.md)
