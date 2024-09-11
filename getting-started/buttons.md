@@ -1,5 +1,5 @@
 ---
-icon: circle-dot
+icon: arrow-right-to-line
 ---
 
 # Buttons

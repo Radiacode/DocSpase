@@ -2,7 +2,9 @@
 icon: gear-complex
 ---
 
-# Settings
+# Device Settings
+
+
 
 > 1[ Measurement units](1-measurement-units.md)
 >
@@ -12,7 +14,7 @@ icon: gear-complex
 >
 > 4 [Dose - alarm levels](4-dose-alarm-levels.md)
 >
-> 5 [Screen settings](5-screen-settings.md)
+> 5 [Screen settings](5-display-settings.md)
 >
 > 6 [Signals - sound, vibration, light](6-signals-sound-vibration-light.md)
 >

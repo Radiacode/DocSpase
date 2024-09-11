@@ -21,7 +21,7 @@
     * [2 Count rate   alarm levels](settings/device-settings/2-count-rate-alarm-levels.md)
     * [3 Dose rate   alarm levels](settings/device-settings/3-dose-rate-alarm-levels.md)
     * [4 Dose   alarm levels](settings/device-settings/4-dose-alarm-levels.md)
-    * [5 Screen settings](settings/device-settings/5-screen-settings.md)
+    * [5 Display settings](settings/device-settings/5-display-settings.md)
     * [6 Signals   sound, vibration, light](settings/device-settings/6-signals-sound-vibration-light.md)
     * [7 Bluetooth on\_off](settings/device-settings/7-bluetooth-on\_off.md)
     * [8 Language selection](settings/device-settings/8-language-selection.md)

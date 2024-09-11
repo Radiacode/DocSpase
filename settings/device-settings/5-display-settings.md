@@ -1,8 +1,9 @@
 ---
 icon: brightness
+description: Screen settings
 ---
 
-# 5 Screen settings
+# 5 Display settings
 
 You can customize the screen properties to suit your needs.
 

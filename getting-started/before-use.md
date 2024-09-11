@@ -1,8 +1,12 @@
+---
+icon: circle-play
+---
+
 # Before use
 
 
 
-> \[!warning] [<mark style="color:blue;background-color:orange;">Warning If you brought the package with the device from frost to a warm room, leave it to warm up for two hours without opening. Otherwise, moisture may condense inside the device and cause the device to malfunction. Moisture penetration into the device will void the manufacturer's warranty.</mark>](#user-content-fn-1)[^1]
+> \[!warning] [Warning If you brought the package with the device from frost to a warm room, leave it to warm up for two hours without opening. Otherwise, moisture may condense inside the device and cause the device to malfunction. Moisture penetration into the device will void the manufacturer's warranty.](#user-content-fn-1)[^1]
 
 **First steps:**
 
@@ -11,15 +15,14 @@
 * read the instructions;
 * check the completeness according to the product passport;
 * check the availability and correctness of filling in the passport/warranty card;
-* fully charge the battery \[\[Battery charging]].
+* fully charge the battery [Battery charging](battery-charging.md).
 
-After the battery is fully charged, turn on the device and set the current time. After it, you may additionally:
+After the battery is fully charged, [turn on](turning-on-and-off.md) the device and set the [current time](../settings/device-settings/9-time-settings.md). After it, you may additionally:
 
-* read first step; \[\[First step]]
-* select menu language; \[\[0 Settings#Language selection]]
-* set display parameters; \[\[Display Modes]]
-* set up signals; \[\[Indication sound, vibration, light]]
-* set up alarms; \[\[Alarms]]
-* update firmware of the device. \[\[Device info]]
+* select menu [language](../settings/device-settings/8-language-selection.md);&#x20;
+* set [display parameters](../settings/device-settings/5-display-settings.md);
+* set up [signals](../settings/indication-sound-vibration-light.md);&#x20;
+* set up [alarms](../settings/alarms.md);&#x20;
+* [update firmware](firmware-update.md) of the [device](../info/device-info.md).&#x20;
 
 [^1]: 
