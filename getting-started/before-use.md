@@ -20,7 +20,7 @@ icon: circle-play
 After the battery is fully charged, [turn on](turning-on-and-off.md) the device and set the [current time](../settings/device-settings/9-time-settings.md). After it, you may additionally:
 
 * select menu [language](../settings/device-settings/8-language-selection.md);&#x20;
-* set [display parameters](../settings/device-settings/5-display-settings.md);
+* set [display parameters](../settings/device-settings/5-screen-settings.md);
 * set up [signals](../settings/indication-sound-vibration-light.md);&#x20;
 * set up [alarms](../settings/alarms.md);&#x20;
 * [update firmware](firmware-update.md) of the [device](../info/device-info.md).&#x20;

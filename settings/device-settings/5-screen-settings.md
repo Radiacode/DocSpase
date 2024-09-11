@@ -1,6 +1,6 @@
 ---
-icon: brightness
 description: Screen settings
+icon: brightness
 ---
 
 # 5 Display settings
