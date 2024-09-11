@@ -1,3 +1,7 @@
+---
+icon: message-question
+---
+
 # FAQ
 
 > \[!faq]- How to reset device? See the \[\[10 Factory settings]] page

@@ -1,5 +1,5 @@
 ---
-icon: exclamation
+icon: message-exclamation
 ---
 
 # Safety precautions and warnings
@@ -29,7 +29,7 @@ Federal Communications Commission (FCC) Statement. This device complies with par
 * Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
 * Consult the dealer or an experienced radio/TV technician for help.
 
-**Warning:** Changes or modifications made to this device not expressly approved by **Radiacode LTD** may void the FCC authorization to operate this device.Note: The manufacturer is not responsible for any radio or TV interference caused by unauthorized modifications to this equipment. Such modifications could void the user’s authority to operate the equipment.
+<mark style="color:red;">**Warning:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Changes or modifications made to this device not expressly approved by</mark> <mark style="color:red;"></mark><mark style="color:red;">**Radiacode LTD**</mark> <mark style="color:red;"></mark><mark style="color:red;">may void the FCC authorization to operate this device.Note: The manufacturer is not responsible for any radio or TV interference caused by unauthorized modifications to this equipment. Such modifications could void the user’s authority to operate the equipment.</mark>
 
 ### RF exposure statement:
 

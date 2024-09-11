@@ -1,3 +1,7 @@
+---
+icon: battery-bolt
+---
+
 # Battery charging
 
 To charge the battery:
@@ -8,4 +12,4 @@ To charge the battery:
 
 Pay attention to the charge indicator icon while using the device. If the charge indicator is empty , then connect the device to the charger.
 
-> \[!danger] Attention! Use only dedicated chargers or a computer USB port to charge the device. Connecting the device to the wrong charging source may damage it. A device damaged as a result of improper charging is not eligible for warranty repair.If the battery is completely discharged, the instrument may not respond to attempts to turn on. To start the dosimeter, the battery must be recharged. Then disconnect the cable and reconnect it. The device will be ready for operation.
+> <mark style="color:red;">\[!danger] Attention! Use only dedicated chargers or a computer USB port to charge the device. Connecting the device to the wrong charging source may damage it. A device damaged as a result of improper charging is not eligible for warranty repair.If the battery is completely discharged, the instrument may not respond to attempts to turn on. To start the dosimeter, the battery must be recharged. Then disconnect the cable and reconnect it. The device will be ready for operation.</mark>

@@ -1,5 +1,5 @@
 ---
-icon: circle-dot
+icon: circle-half-stroke
 ---
 
 # Indication sound, vibration, light

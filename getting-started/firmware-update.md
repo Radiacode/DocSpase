@@ -1,6 +1,10 @@
+---
+icon: wrench
+---
+
 # Firmware update
 
-The device is constantly being improved and the firmware (built-in software) is regularly updated by the developer company. The current version of the device firmware is available through the Device info menu item. To update the firmware take the following steps:
+The device is constantly being improved and the firmware (built-in software) is regularly updated by the developer company. <mark style="color:red;">The current version of the device firmware is available through the</mark> [<mark style="color:blue;">`Device info`</mark>](../info/device-info.md) <mark style="color:red;">menu item.</mark> To update the firmware take the following steps:&#x20;
 
 * download the latest version of **Radiacode** software at [https://space.radiacode.com](https://space.radiacode.com);
 * install **Radiacode** on your computer and run it;
