@@ -13,8 +13,6 @@ The device is constantly being improved and the firmware (built-in software) is 
 * if there is a fresh version of the firmware, you will be prompted to update it;
 * wait for the update process to finish.
 
-> \[!danger] Attention! Do not turn off the instrument and do not disconnect the USB cable until the process is complete! Violation of the firmware update process may lead to instrument failure. Please contact the service department to restore operation
-
 **Update the firmware using your smartphone and the Android app:**
 
 * install the latest version of the Android application in the application store: Radiacode or download from the link: [https://space.radiacode.com](https://space.radiacode.com);
@@ -37,3 +35,9 @@ The device is constantly being improved and the firmware (built-in software) is 
 * select the USB communication interface and confirm by pressing the \[OK] button;
 * confirm the firmware update of the instrument;
 * wait for the update process to complete.
+
+{% hint style="warning" %}
+Attention! Do not turn off the instrument and do not disconnect the USB cable until the process is complete!\
+Violation of the firmware update process may lead to instrument failure.\
+Please contact the service department to restore operation.
+{% endhint %}

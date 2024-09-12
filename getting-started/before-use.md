@@ -8,10 +8,6 @@ icon: circle-play
 [Warning If you brought the package with the device from frost to a warm room, leave it to warm up for two hours without opening. Otherwise, moisture may condense inside the device and cause the device to malfunction. Moisture penetration into the device will void the manufacturer's warranty.](#user-content-fn-1)[^1]
 {% endhint %}
 
-{% hint style="warning" %}
-[Warning If you brought the package with the device from frost to a warm room, leave it to warm up for two hours without opening. Otherwise, moisture may condense inside the device and cause the device to malfunction. Moisture penetration into the device will void the manufacturer's warranty.](#user-content-fn-2)[^2]
-{% endhint %}
-
 **First steps:**
 
 * take the device out of the package;
@@ -30,5 +26,3 @@ After the battery is fully charged, [turn on](turning-on-and-off.md) the device 
 * [update firmware](firmware-update.md) of the [device](../info/device-info.md).&#x20;
 
 [^1]: 
-
-[^2]: 
