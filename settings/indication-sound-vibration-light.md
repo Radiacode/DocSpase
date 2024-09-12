@@ -6,7 +6,7 @@ icon: circle-half-stroke
 
 In portable radiation detectorе  Radiacode-10X series sound and vibration sources are built in to acknowledge button presses and to indicate events and alarms. A light indication is provided for remote monitoring.
 
-To manage your settings, go to: \[\[0 Settings#Signals - sound, vibration, light]]
+To manage your settings, go to:[ Signals - sound, vibration, light](device-settings/6-signals-sound-vibration-light.md)
 
 Sound can be accompanied by:
 
@@ -32,7 +32,7 @@ Light indication:
 * registration of radiation quantum in case of alarm - red color, flash;
 * exceeding the alarm threshold - switching on the screen backlight.
 
-It is possible to \[\[6 Signals - sound, vibration, light|turn signals]] on or off the alarms by separate groups:
+It is possible to [Signals - sound, vibration, light](device-settings/6-signals-sound-vibration-light.md) on or off the alarms by separate groups:
 
 * all sounds;
 * button pressing sound;

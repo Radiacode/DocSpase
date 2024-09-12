@@ -11,7 +11,7 @@ This mode is intended to represent dose rate or count rate. When the instrument 
 In the **Monitor** display mode, the screen shows:
 
 * status panel - from the top;
-* parameters of dose rate or count rate estimation - at the bottom. !\[\[presentation\_dose\_rate\_all\_signs\_f 1.png]] The upper part of the screen, from left to right, contains basic information about the status of the instrument:
+* parameters of dose rate or count rate estimation - at the bottom. ![](<../../.gitbook/assets/presentation\_dose\_rate\_all\_signs\_f 1.png>)The upper part of the screen, from left to right, contains basic information about the status of the instrument:
 
 <figure><img src="../../.gitbook/assets/status_monitor_all_signs.png" alt=""><figcaption></figcaption></figure>
 
@@ -37,11 +37,13 @@ With the help of the menu the choice between the measurement units is available:
 
 The type of radiation intensity estimation: Dose rate or count rate can be selected in the menu, or can be switched operatively with the instrument buttons.
 
-> <mark style="color:blue;">\[!todo] Quick control in this mode is available via the buttons:</mark>
->
-> * <mark style="color:blue;">a short press on the top button of the swing to switch between the types of photon radiation intensity display:</mark>&#x20;
-> * <mark style="color:blue;">dose rate or count rate;</mark>
-> * <mark style="color:blue;">long pressing on the upper button of the swing turns on and off the sound indication;</mark>
-> * <mark style="color:blue;">short pressing on the lower button of the swing switches on the sound indication of registered quanta (clicks).</mark>
+{% hint style="info" %}
+<mark style="color:blue;">Quick control in this mode is available via the buttons:</mark>
+
+* <mark style="color:blue;">a short press on the top button of the swing to switch between the types of photon radiation intensity display:</mark>&#x20;
+* <mark style="color:blue;">dose rate or count rate;</mark>
+* <mark style="color:blue;">long pressing on the upper button of the swing turns on and off the sound indication;</mark>
+* <mark style="color:blue;">short pressing on the lower button of the swing switches on the sound indication of registered quanta (clicks).</mark>
+{% endhint %}
 
 ####

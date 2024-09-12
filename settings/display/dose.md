@@ -41,10 +41,12 @@ Using the menu you can choose between the measurement units:
 
 * Sv or P - when displaying dose rate.
 
-> <mark style="color:blue;">\[!todo] Quick control in this mode is available via the buttons:</mark>
->
-> * <mark style="color:blue;">long pressing the lower button resets the value of the accumulated dose;</mark>
-> * <mark style="color:blue;">long pressing on the upper button of the swing turns on and off the sound indication.</mark>
+{% hint style="info" %}
+<mark style="color:blue;">Quick control in this mode is available via the buttons:</mark>
+
+* <mark style="color:blue;">long pressing the lower button resets the value of the accumulated dose;</mark>
+* <mark style="color:blue;">long pressing on the upper button of the swing turns on and off the sound indication.</mark>
+{% endhint %}
 
 **Setting alarm thresholds**
 

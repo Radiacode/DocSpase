@@ -4,7 +4,7 @@ icon: volume-low
 
 # 6 Signals   sound, vibration, light
 
-!\[\[sound\_on\_sym.png]] !\[\[sound\_off\_sym.png]]
+![](../../.gitbook/assets/sound\_on\_sym.png) ![](../../.gitbook/assets/sound\_off\_sym.png)
 
 Portable radiation detector Radiacode-10X series is equipped with a combined interface for user interaction:
 

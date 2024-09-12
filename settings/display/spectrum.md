@@ -39,12 +39,14 @@ Labels are placed under the energy scale of the histogram:
 * dashes every 500keV;
 * arrows - every 1000keV.
 
-> <mark style="color:blue;">\[!todo] Quick control of the spectrum view is available via the buttons:</mark>
->
-> * <mark style="color:blue;">a short press on the upper swing button switches the spectrum amplitude scale between linear and logarithmic;</mark>
-> * <mark style="color:blue;">a short press on the lower button of the swing cycles the scale of the energy scale 1MeV -> 2MeV -> 3MeV -> 1MeV.... ;</mark>
-> * <mark style="color:blue;">long press on the lower button of the swing clears the screen and starts a new session of spectrum accumulation;</mark>
-> * <mark style="color:blue;">long pressing the upper button of the swing turns on and off the sound indication.</mark>
+{% hint style="info" %}
+Quick control of the spectrum view is available via the buttons:
+
+* a short press on the upper swing button switches the spectrum amplitude scale between linear and logarithmic;
+* a short press on the lower button of the swing cycles the scale of the energy scale 1MeV -> 2MeV -> 3MeV -> 1MeV.... ;
+* long press on the lower button of the swing clears the screen and starts a new session of spectrum accumulation;
+* long pressing the upper button of the swing turns on and off the sound indication.
+{% endhint %}
 
 Each horizontal bar shows a graphical representation of a value (dose rate, dose, count rate) on a logarithmic scale.
 

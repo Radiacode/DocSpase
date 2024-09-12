@@ -33,11 +33,13 @@ At the bottom of the screen from left to right:
 * graphical representation of the current count rate.
 * search graph of the count rate;
 
-> <mark style="color:blue;">\[!todo] Quick control in this mode is available via buttons:</mark>
->
-> * <mark style="color:blue;">a short press on the upper swing button increases the averaging time;</mark>
-> * <mark style="color:blue;">a short press on the lower swing button decreases the averaging time;</mark>
-> * <mark style="color:blue;">long press on the lower swing button clears the screen and starts a new search session;</mark>
-> * <mark style="color:blue;">long pressing the upper swing button turns the sound indication on and off.</mark>
+{% hint style="info" %}
+<mark style="color:blue;">Quick control in this mode is available via buttons:</mark>
+
+* <mark style="color:blue;">a short press on the upper swing button increases the averaging time;</mark>
+* <mark style="color:blue;">a short press on the lower swing button decreases the averaging time;</mark>
+* <mark style="color:blue;">long press on the lower swing button clears the screen and starts a new search session;</mark>
+* <mark style="color:blue;">long pressing the upper swing button turns the sound indication on and off.</mark>
+{% endhint %}
 
 ####
