@@ -5,8 +5,10 @@ icon: circle-play
 # Before use
 
 {% hint style="danger" %}
-[Warning If you brought the package with the device from frost to a warm room, leave it to warm up for two hours without opening. Otherwise, moisture may condense inside the device and cause the device to malfunction. Moisture penetration into the device will void the manufacturer's warranty.](#user-content-fn-1)[^1]
+Warning If you brought the package with the device from frost to a warm room, leave it to warm up for two hours without opening. Otherwise, moisture may condense inside the device and cause the device to malfunction. Moisture penetration into the device will void the manufacturer's warranty.
 {% endhint %}
+
+Warning If you brought the package with the device from frost to a warm room, leave it to warm up for two hours without opening. Otherwise, moisture may condense inside the device and cause the device to malfunction. Moisture penetration into the device will void the manufacturer's warranty.
 
 **First steps:**
 
@@ -24,5 +26,3 @@ After the battery is fully charged, [turn on](turning-on-and-off.md) the device 
 * set up [signals](../settings/indication-sound-vibration-light.md);&#x20;
 * set up [alarms](../settings/alarms.md);&#x20;
 * [update firmware](firmware-update.md) of the [device](../info/device-info.md).&#x20;
-
-[^1]: 
