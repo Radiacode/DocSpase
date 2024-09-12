@@ -9,6 +9,7 @@
   * [Turning on and off](getting-started/turning-on-and-off.md)
   * [Battery charging](getting-started/battery-charging.md)
   * [Firmware update](getting-started/firmware-update.md)
+  * [Menu usage](getting-started/menu-usage.md)
 * [Radiacode-10X series](radiacode-10x-series/README.md)
   * [Device design](radiacode-10x-series/device-design.md)
   * [Technical specifications](radiacode-10x-series/technical-specifications.md)
