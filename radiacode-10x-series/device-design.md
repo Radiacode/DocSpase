@@ -5,11 +5,11 @@ Design elements, controls and indications controls and indications personal radi
 <figure><img src="../.gitbook/assets/about6.png" alt=""><figcaption></figcaption></figure>
 
 1. Location of the radiation sensor, digital thermometer, and instrument orientation sensor.
-2. Ambient \[\[6 Signals - sound, vibration, light|light]] sensor (for backlight auto turning-on feature)
-3. Built-in \[\[Battery charging|battery]] status: charge level (4 variants), charging, powered from the external source (end of charging)
-4. Swing buttons control sign: \[\[Icons|locked]], unlocked
-5. External connection: \[\[Working with a PC|USB]], \[\[Working with a smartphone|Bluetooth]]
-6. \[\[6 Signals - sound, vibration, light|Sound ]]status: on, off
+2. Ambient [light sensor](../settings/indication-sound-vibration-light.md) (for backlight auto turning-on feature)
+3. Built-in [battery status](../getting-started/battery-charging.md): charge level (4 variants), charging, powered from the external source (end of charging)
+4. Swing buttons control sign: [locked](../getting-started/turning-on-and-off.md), unlocked
+5. External connection: [USB](working-with-a-pc.md), [Bluetooth](working-with-a-smartphone.md)
+6. [Sound](../settings/indication-sound-vibration-light.md) status: on, off
 7. \[\[Alarms|Alarm]] sign: presence and level
 8. Radiation sensor temperature indicator
 9. Current \[\[9 Time settings|time]] indicator

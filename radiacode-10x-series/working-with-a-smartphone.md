@@ -2,9 +2,7 @@
 
 **Technical requirements to the mobile device**
 
-In addition to autonomous operation portable radiation detector can be connected to to an Android or iOS smartphone via
-
-> \[!bluetuth] !\[\[bt\_sym.png]] Bluetooth.
+In addition to autonomous operation portable radiation detector can be connected to to an Android or iOS smartphone via [Bluetooth](../settings/device-settings/7-bluetooth-on\_off.md).
 
 The device works with tablets or smartphones with minimum system requirements: Android operating system version 6.0 and higher.
 

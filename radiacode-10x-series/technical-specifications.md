@@ -31,7 +31,7 @@ site reconnaissance;\
 · two-channel alarm signaling of radiation danger and changes in the radiation situation; · time-based database;\
 · possibility of autonomous operation, or in pair with a smartphone;\
 · wireless data transmission;\
-· wide possibilities of data processing in Windows, Android and IOS applications.
+· wide possibilities of data processing in [Windows](working-with-a-pc.md), [Android and IOS ](working-with-a-smartphone.md)applications.
 
 ### Instrument features
 

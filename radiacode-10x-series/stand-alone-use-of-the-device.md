@@ -11,6 +11,6 @@ The program is available for download at [https://space.radiacode.com](https://s
 With the help of the program Radiacode you can transfer data to a computer, view it and manage it personal radiation detectorом.\
 For a detailed description of the program interface, see in chapter "Working with the use of a computer".
 
-To work with a smartphone install the app on it Radiacode, available at [https://space.radiacode.com](https://space.radiacode.com) and GooglePlay, or use the QR code:
+To work with a smartphone [install the app ](working-with-a-smartphone.md)on it Radiacode, available at [https://space.radiacode.com](https://space.radiacode.com) and GooglePlay, or use the QR code:
 
 <figure><img src="../.gitbook/assets/frame.png" alt=""><figcaption></figcaption></figure>
