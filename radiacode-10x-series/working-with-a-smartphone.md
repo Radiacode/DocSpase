@@ -8,14 +8,21 @@ The device works with tablets or smartphones with minimum system requirements: A
 
 To pair with your smartphone, install the app on your smartphone Radiacode, available at link:and  &#x20;
 
-> \[!info] The Android app is available by clicking here:   is available by clicking here:  https://space.radiacode.com/download-software-and-manual-96 , or use the QR-code:
+{% hint style="info" %}
+&#x20;The Android app is available by clicking here:   is available by clicking here:  [https://space.radiacode.com/download-software-and-manual-96](https://space.radiacode.com/download-software-and-manual-96), or use the QR-code:
+{% endhint %}
 
-!\[\[\_QRarc101\_cut.png]]
+<figure><img src="../.gitbook/assets/_QRarc101_cut.png" alt=""><figcaption></figcaption></figure>
 
-> \[!info] The IOS app is available by clicking here: https://apps.apple.com/ru/app/radiacode/id6449358533.\
-> A detailed description of the application interface is included with the application and is available after installation.
+{% hint style="info" %}
+The IOS app is available by clicking here: [https://apps.apple.com/ru/app/radiacode/id6449358533](https://apps.apple.com/ru/app/radiacode/id6449358533).\
+A detailed description of the application interface is included with the application and is available after installation.
+{% endhint %}
 
 The device works with iPhone and iPad devices with minimum system requirements:\
 iOS operating system 17.0 or higher, or macOS 14.0 or newer and MAC with Apple chips.
 
-> \[!Warning] To connect the RadiaCode device to your smartphone via Bluetooth, you do not need to perform the device pairing procedure via your smartphone's Bluetooth settings. You do not need to enter any connection codes either.
+{% hint style="warning" %}
+To connect the RadiaCode device to your smartphone via Bluetooth, you do not need to perform the device pairing procedure via your smartphone's Bluetooth settings. You do not need to enter any connection codes either.
+{% endhint %}
+

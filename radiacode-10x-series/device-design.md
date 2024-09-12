@@ -10,18 +10,18 @@ Design elements, controls and indications controls and indications personal radi
 4. Swing buttons control sign: [locked](../getting-started/turning-on-and-off.md), unlocked
 5. External connection: [USB](working-with-a-pc.md), [Bluetooth](working-with-a-smartphone.md)
 6. [Sound](../settings/indication-sound-vibration-light.md) status: on, off
-7. \[\[Alarms|Alarm]] sign: presence and level
+7. [Alarm](../settings/alarms.md) sign: presence and level
 8. Radiation sensor temperature indicator
-9. Current \[\[9 Time settings|time]] indicator
-10. Swing \[\[First step|button]] : «up» for left-hand orientation, «down» for right-hand orientation
+9. Current [time](../settings/device-settings/9-time-settings.md) indicator
+10. Swing [button](../getting-started/buttons.md) : «up» for left-hand orientation, «down» for right-hand orientation
 11. USB type C connector: for device charging and data exchange
-12. Round button: for turning on and confirming
-13. Swing \[\[First step|button]]: «down» for left-hand orientation, «up» for right-hand orientation
+12. Round [button](../getting-started/buttons.md): for turning on and confirming
+13. Swing [button](../getting-started/buttons.md): «down» for left-hand orientation, «up» for right-hand orientation
 14. Dose rate graphical representation
-15. \[\[Display Modes|Dose rate]] numerical representation
-16. \[\[6 Signals - sound, vibration, light|Sound]] speaker location
-17. \[\[1 Measurement units|Measurement units]]
-18. Two light signaling indicators:
+15. &#x20;[Dose rate](../settings/display/dose.md) numerical representation
+16. [Sound](../settings/indication-sound-vibration-light.md) speaker location
+17. [Measurement units](../settings/device-settings/1-measurement-units.md)
+18. Two [light](../settings/device-settings/6-signals-sound-vibration-light.md) signaling indicators:
 
 * charge (blue color);
 * gamma-quantum registration (_green_ when low level, _red_ when alarm threshold is exceeded).
