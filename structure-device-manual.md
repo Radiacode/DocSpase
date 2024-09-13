@@ -12,6 +12,7 @@ icon: list-tree
 * [turning-on-and-off.md](getting-started/turning-on-and-off.md "mention")
 * [battery-charging.md](getting-started/battery-charging.md "mention")
 * [firmware-update.md](getting-started/firmware-update.md "mention")
+* [menu-usage.md](getting-started/menu-usage.md "mention")
 
 [radiacode-10x-series](radiacode-10x-series/ "mention")
 
