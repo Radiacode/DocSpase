@@ -6,7 +6,7 @@ icon: chart-area
 
 #### Spectrum
 
-
+fdfdfddfd
 
 The mode is intended for representation of the general view of the photon (gamma and X-ray) radiation energy spectrum.
 
