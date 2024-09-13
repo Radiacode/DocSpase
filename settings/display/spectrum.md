@@ -6,17 +6,21 @@ icon: chart-area
 
 #### Spectrum
 
+
+
 The mode is intended for representation of the general view of the photon (gamma and X-ray) radiation energy spectrum.
 
 In the **Spectrum** display mode the screen shows: state panel - from top; energy spectrum of photon (gamma and X-ray) radiation.
 
 The upper part of the screen, from left to right, contains basic information about the instrument status:
 
-<div data-full-width="true">
+<div align="center" data-full-width="false">
 
-<figure><img src="../../.gitbook/assets/status_spectrum 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/status_spectrum 1.png" alt=""><figcaption><p>chart numbe 1</p></figcaption></figure>
 
 </div>
+
+
 
 * scale of the amplitude scale of the photon radiation energy spectrum - linear or logarithmic;
 * time since the beginning of spectrum accumulation: hours, minutes, seconds;
