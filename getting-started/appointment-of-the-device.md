@@ -8,6 +8,14 @@ icon: radio
 
 <mark style="color:green;">Purpose of the device</mark>
 
+This section contains the general information about dosimeter Radiacode-10X series. Later in the document, the dosimeter Radiacode-10X series is also referred to as "device" and "dosimeter".
+
+{% hint style="warning" %}
+Attention! This user manual is valid for devices with firmware version from 4.11
+{% endhint %}
+
+The developer is constantly improving the firmware of the device, therefore it is recommended to always use the latest version of the user manual. The latest information can be found at the links in the section: [Device info](../info/device-info.md)
+
 <figure><img src="../.gitbook/assets/RC_101_clear.png" alt=""><figcaption></figcaption></figure>
 
 Portable dosimeter personal radiation detector Radiacode-10X series is designed to assess the radiation situation in real time. In addition, the instrument automatically keeps a log of measurement results and events. This makes it possible to analyze them, including with the help of standard software on a smartphone or personal computer. The dosimeter is suitable for work on the ground, with samples of construction materials, with specially selected and prepared food or soil samples.
@@ -27,4 +35,6 @@ site reconnaissance;\
 · possibility of autonomous operation, or in pair with a smartphone;\
 · wireless data transmission;\
 · wide possibilities of data processing in Windows, Android and IOS applications.
+
+**Radiacode-10X series is a highly sophisticated and sensitive instrument. Please read the instructions to obtain reliable results.**
 
