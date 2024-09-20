@@ -5,11 +5,9 @@ description: '![Текст с описанием картинки](./logo/favico
 
 # Structure device manual
 
-## radiacode-logo-black.svg <a href="#file-name-id-wide" id="file-name-id-wide"></a>
 
-/
 
-1. [DocSpase](https://github.com/Radiacode/DocSpase/tree/main)
+
 
 [getting-started](getting-started/ "mention")
 
