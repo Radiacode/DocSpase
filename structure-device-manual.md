@@ -1,8 +1,15 @@
 ---
 icon: list-tree
+description: '![Текст с описанием картинки](./logo/favicon-32.png)'
 ---
 
 # Structure device manual
+
+## radiacode-logo-black.svg <a href="#file-name-id-wide" id="file-name-id-wide"></a>
+
+/
+
+1. [DocSpase](https://github.com/Radiacode/DocSpase/tree/main)
 
 [getting-started](getting-started/ "mention")
 

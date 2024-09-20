@@ -1,8 +1,13 @@
 ---
 icon: line-height
+description: '![](./structure-1/Images/sym40_40/cr_alarm_2.png)'
 ---
 
 # Menu usage
+
+
+
+
 
 ## Menu usage
 
