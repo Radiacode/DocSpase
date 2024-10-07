@@ -50,4 +50,3 @@ Using the menu you can choose between the measurement units:
 
 **Setting alarm thresholds**
 
-####
